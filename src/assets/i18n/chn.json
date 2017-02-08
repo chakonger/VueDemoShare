@@ -1,0 +1,43 @@
+{
+  "back": "返回",
+  "more": "更多",
+  "login": {
+    "tel": "手机号",
+    "pwd": "密码",
+    "sign-in": "登录",
+    "forgot-pwd": "忘记密码",
+    "register": "注册账号"
+  },
+  "homepage": {
+    "chat": "对话",
+    "list": "列表",
+    "power": "电量",
+    "me": "我",
+    "group-chat": "群聊",
+    "new-family": "新的家人",
+    "menu": {
+      "add-device": "添加插控儿",
+      "add-friend": "添加家人"
+    }
+  },
+  "device": {
+    "devAlpha": "我的设备"
+  },
+  "me": {
+    "system-msg": "系统消息",
+    "online-shopping": "在线购买",
+    "version-check": "检查新版本",
+    "about": "关于",
+    "setting": "设置"
+  },
+  "setting": {
+    "setElePrice": "设置电价",
+    "changePwd": "修改密码",
+    "chatStyle": "对话风格",
+    "nightDisturb": "夜间免打扰",
+    "signOut": "退出登录",
+    "d-content": "确定要退出登录",
+    "d-navigation": "退出登录",
+    "d-positive": "取消"
+  }
+}

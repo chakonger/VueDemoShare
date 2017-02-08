@@ -1,0 +1,12 @@
+{
+  "homepage": {
+    "chat": "Chat",
+    "list": "List",
+    "power": "Power",
+    "me": "Me",
+    "menu": {
+      "add-device": "AddDevice",
+      "add-friend": "AddFamily"
+    }
+  }
+}
